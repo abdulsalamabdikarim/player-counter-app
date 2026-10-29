@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5R8H5wRFMUWfA9OcuzsIHuMyS--gca8OHC5KwxxVt0MPqUg7xZ06mFdt-&s=10");
+    background-size: cover;
+    font-family: "Cantarell", sans-serif;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#main-div{
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(0,0,0,0.5)
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: seagreen;
+}
+
+#save-btn {
+    background: coral;
+}
+
+#save-el{
+    background-color: rgba(0,0,0,0.7);
+    display: inline-block;
+    padding: 18px 15px;
+    border-radius: 8px;
+    color: white;
+}
+
